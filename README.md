@@ -1,4 +1,4 @@
-# ROS2-Projects-
+# ROS2-Projects
 Collection of ROS 2 robotics tasks and package simulations
 Welcome to our team repository, which contains all completed tasks and packages for our ROS 2 system design projects.
 
