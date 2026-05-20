@@ -1,7 +1,5 @@
 # ROS2-Projects-
 Collection of ROS 2 robotics tasks and package simulations
-# ROS 2 Robotics Lab Assignments
-
 Welcome to our team repository, which contains all completed tasks and packages for our ROS 2 system design projects.
 
 ## 👥 The Team
@@ -12,6 +10,7 @@ Welcome to our team repository, which contains all completed tasks and packages 
 * **Razan ramzy**
 * **Tasneem alaa**
 * **Mariam Mamdouh**
+* **Asmaa galal**
 
 ## 🚀 Project Overview & Key Tasks
 This repository contains the source code, custom nodes, and launch configurations for our automated workflows. 
