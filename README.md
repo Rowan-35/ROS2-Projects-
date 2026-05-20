@@ -12,6 +12,10 @@ Welcome to our team repository, which contains all completed tasks and packages 
 * **Mariam Mamdouh**
 * **Asmaa galal**
 
+## 🎥 Task Explanation Videos
+For a visual breakdown and detailed explanation of how each task operates, you can watch our project demonstration videos here:
+👉 [ROS2 Projects Video Explanations](https://drive.google.com/drive/folders/14aFGvR1XqMG_KZoHEpeqvxyVF2EOvVvs)
+
 ## 🚀 Project Overview & Key Tasks
 This repository contains the source code, custom nodes, and launch configurations for our automated workflows. 
 
